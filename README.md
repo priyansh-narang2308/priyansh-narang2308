@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20views&color=0e75b6&style=flat" alt="priyansh-narang2308" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on a Saas application <br><br>🌱 I’m currently learning React JS ,MongoDB, Socket.io(Web Sockets)<br><br>💬 Ask me about React and ML frameworks<br><br>📫 How to reach me priyanshnarang23@gmail.com<br><br>⚡ Fun fact Always curious about integrating different problem-solving approaches
+🔭 I’m currently working on a Saas application <br><br>🌱 I’m currently learning Astro JS ,Socket.io(Web Sockets)<br><br>💬 Ask me about React and ML frameworks<br><br>📫 How to reach me priyanshnarang23@gmail.com<br><br>⚡ Fun fact Always curious about integrating different problem-solving approaches
 
 
 ## 🌐 Socials:
