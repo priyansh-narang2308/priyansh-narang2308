@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Narang</h1>
 <h3 align="center">Full Stack Alchemist turning coffee into code</h3>
 
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3079099-Coding-coding-coding"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
