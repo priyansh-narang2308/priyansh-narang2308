@@ -202,10 +202,4 @@ const funFacts = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/priyansh-narang2308/priyansh-narang2308/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyansh-narang2308&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+![Snake animation](https://github.com/priyansh-narang2308/priyansh-narang2308/blob/output/github-contribution-grid-snake.svg)
