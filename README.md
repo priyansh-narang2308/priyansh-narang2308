@@ -163,8 +163,8 @@ const priyansh = {
 
 <div align="center">
 
-- [The Art of Writing Clean React Components](https://hashnode.com/@priyansh23)
-- [TypeScript Tips I Wish I Knew Earlier](https://hashnode.com/@priyansh23)
+- [When AI Starts to Remember You](https://memoryllmt.hashnode.dev/)
+- [Top 5 Must-Have VS Code Extensions](https://vscodeextensions.hashnode.dev/)
   
 <a href="https://hashnode.com/@priyansh23" target="_blank">
   <img src="https://img.shields.io/badge/Read%20More-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
