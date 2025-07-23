@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Alchemist;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+the+Future+with+AI+%26+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Alchemist;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/priyansh-narang2308?label=Followers&style=for-the-badge&color=ff6b6b)](https://github.com/priyansh-narang2308?tab=followers)
