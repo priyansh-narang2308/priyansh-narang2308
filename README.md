@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Narang</h1>
 <h3 align="center">Full Stack Alchemist turning coffee into code</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://tenor.com/en-GB/view/cat-work-in-progress-progress-gif-4531792414183276300)"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://tenor.com/en-GB/view/cat-work-in-progress-progress-gif-4531792414183276300"/>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
