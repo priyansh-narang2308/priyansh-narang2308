@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyansh Narang</h1>
 <h3 align="center">Full Stack Alchemist turning coffee into code</h3>
 
-<iframe src="https://giphy.com/embed/OumCa12QC9CIvBe2c1" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://tenor.com/en-GB/view/cat-work-in-progress-progress-gif-4531792414183276300)"/>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
