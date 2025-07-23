@@ -201,6 +201,3 @@ const funFacts = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20connect%20and%20build%20something%20amazing&descAlignY=51&descAlign=50" />
 
 </div>
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/priyansh-narang2308/priyansh-narang2308/blob/output/github-contribution-grid-snake.svg)
