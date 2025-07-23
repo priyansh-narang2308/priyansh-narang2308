@@ -146,7 +146,6 @@ const priyansh = {
 
 ### 💻 Most Used Languages
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-narang2308&layout=compact&theme=tokyonight&border_radius=20&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=priyansh&theme=tokyonight&border_radius=20&hide_border=true" />
 
 ### 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=priyansh-narang2308&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
