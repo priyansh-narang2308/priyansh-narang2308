@@ -47,7 +47,7 @@ const priyansh = {
 <td width="50%">
 
 ### 🔥 What I'm Building
-- 🌐 **A Blockchain-Based Web Application (Web3 + React + Solidity)
+- 🌐 **A Blockchain-Based Web Application (Web3 + React + Solidity)**
 - 🤖 **LLM-Based Code Assistant** - VSCode extension with custom models  
 
 </td>
