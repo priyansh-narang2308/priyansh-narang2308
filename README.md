@@ -16,7 +16,7 @@
 
 ```typescript
 const priyansh = {
-  code: ["JavaScript", "TypeScript", "Python", "Solidity", "Dart"],
+  code: ["JavaScript", "TypeScript", "Python", "Dart"],
   askMeAbout: ["Web Dev", "AI/ML", "Blockchain", "Mobile Apps", "System Design"],
   technologies: {
     frontEnd: {
@@ -47,7 +47,6 @@ const priyansh = {
 <td width="50%">
 
 ### 🔥 What I'm Building
-- 🌐 **A Blockchain-Based Web Application (Web3 + React + Solidity)**
 - 🤖 **LLM-Based Code Assistant** - VSCode extension with custom models  
 
 </td>
@@ -71,7 +70,6 @@ const priyansh = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
