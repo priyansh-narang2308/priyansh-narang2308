@@ -5,38 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Alchemist;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/priyansh-narang2308?label=Followers&style=for-the-badge&color=ff6b6b)](https://github.com/priyansh-narang2308?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/priyansh-narang2308?label=Stars&style=for-the-badge&color=feca57)](https://github.com/priyansh-narang2308)
 
 </div>
 
 ---
-
-## 🚀 About Me
-
-```typescript
-const priyansh = {
-  code: ["JavaScript", "TypeScript", "Python", "Dart"],
-  askMeAbout: ["Web Dev", "AI/ML", "Blockchain", "Mobile Apps", "System Design"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue.js", "Svelte"],
-      css: ["Tailwind", "Styled-Components", "SASS", "Material-UI"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express", "Nest.js", "Fastify"],
-      python: ["Django", "FastAPI", "Flask"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Supabase"]
-    },
-    mobile: ["Flutter", "React Native", "Expo"],
-    devOps: ["Docker", "Kubernetes", "AWS", "GCP", "Terraform", "Jenkins"],
-    ai: ["PyTorch", "TensorFlow", "Scikit-learn", "OpenAI", "Hugging Face"],
-    blockchain: ["Web3.js"]
-  },
-  currentFocus: "Building AI-powered Web3 applications",
-  funFact: "I debug production issues in my dreams 🌙"
-};
-```
 
 <br clear="right"/>
 
@@ -168,18 +140,6 @@ const priyansh = {
 ## ⚡ Fun Facts & Quick Stats
 
 <div align="center">
-
-```javascript
-const funFacts = {
-  🧠: "Can debug production issues in my sleep",
-  ☕: "Coffee consumed: 2847 cups and counting...",
-  🌙: "Night owl - best code written after midnight",
-  🎮: "Gaming break = creative breakthrough",
-  📚: "Currently reading: 'Designing Data-Intensive Applications'",
-  🚀: "Next goal: Contribute to a major open-source project",
-  🎯: "2024 Resolution: Build an AI that can make perfect coffee"
-};
-```
 
 ### 💫 Random Developer Humor
 
