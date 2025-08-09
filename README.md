@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **✈️An AI-Based Trip Planner named rAIdar** - Prompt and get your itinerary
+- **✈Deep Research** 
 - 🤖 **LLM-Based Code Assistant** - VSCode extension with custom models  
 
 </td>
