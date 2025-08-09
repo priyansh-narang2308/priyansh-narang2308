@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **✈Deep Research** 
+- **Deep Research** 
 - 🤖 **LLM-Based Code Assistant** - VSCode extension with custom models  
 
 </td>
