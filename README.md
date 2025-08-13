@@ -20,7 +20,7 @@
 
 ### 🔥 What I'm Building
 - **Deep Research** 
-- 🤖 **LLM-Based Code Assistant** - VSCode extension with custom models  
+- **LLM-Based Code Assistant** - VSCode extension with custom models  
 
 </td>
 <td width="50%">
