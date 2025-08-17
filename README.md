@@ -144,7 +144,6 @@
 
 </div>
 
-![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyansh-narang2308&show_icons=true&theme=radical)
 
 ---
 
