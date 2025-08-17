@@ -20,7 +20,7 @@
 
 ### 🔥 What I'm Building
 - **Deep Research** 
-- **LLM-Based Code Assistant** - VSCode extension with custom models  
+- **PodBite** - An AI-Based Podcast summarizer using LangChain 
 
 </td>
 <td width="50%">
