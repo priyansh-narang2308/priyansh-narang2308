@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **Deep Research** 
+- **Deep Research** - An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
 - **PodBite** - An AI-Based Podcast summarizer using LangChain 
 
 </td>
