@@ -20,7 +20,7 @@
 
 ### 🔥 What I'm Building
 - **Deep Research** - An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
-- **PodBite** - An AI-Based Podcast summarizer using LangChain 
+- **Pictoria AI** - An AI-Based Image generator as well as a model trainer using Replicate
 
 </td>
 <td width="50%">
