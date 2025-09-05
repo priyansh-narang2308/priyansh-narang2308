@@ -134,23 +134,3 @@
   <img src="https://img.shields.io/badge/Read%20More-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
-## ⚡ Fun Facts & Quick Stats
-
-<div align="center">
-
-### 💫 Random Developer Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
-
-
----
-
-<div align="center">
-
-### 🌟 "Code is poetry written in logic" 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20connect%20and%20build%20something%20amazing&descAlignY=51&descAlign=50" />
-
-</div>
