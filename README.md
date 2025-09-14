@@ -19,8 +19,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **Deep Research** - An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
-- **MindForge** - An AI-Based Image generator as well as a model trainer using Replicate
+- **Kanbanter** - A kanban board styled app using firebase emulators
 
 </td>
 <td width="50%">
