@@ -1,8 +1,6 @@
 # 👨‍💻 Priyansh Narang
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Alchemist;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -121,15 +119,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyansh-narang2308&theme=tokyonight" />
 
 </div>
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-- [When AI Starts to Remember You](https://memoryllmt.hashnode.dev/)
-- [Top 5 Must-Have VS Code Extensions](https://vscodeextensions.hashnode.dev/)
-  
-<a href="https://hashnode.com/@priyansh23" target="_blank">
-  <img src="https://img.shields.io/badge/Read%20More-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
 
