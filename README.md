@@ -24,8 +24,6 @@
 
 ### 📚 Currently Learning
 - 🧠 **Advanced LLMs** - Fine-tuning & RAG systems
-- ⚡ **Real-time Systems** - WebRTC, WebSockets, gRPC
-- 🏗️ **Microservices Architecture** - Event-driven design
 - ⚜️ System Design
 
 </td>
