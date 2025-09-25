@@ -17,7 +17,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **NoteFlix** - An AI powered notes taking app using vercel ai sdk and RAG
+- **DeepResearch** - An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports
 
 </td>
 <td width="50%">
