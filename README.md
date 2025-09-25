@@ -17,7 +17,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **Kanbanter** - A kanban board styled app using firebase emulators
+- **NoteFlix** - An AI powered notes taking app using vercel ai sdk and RAG
 
 </td>
 <td width="50%">
