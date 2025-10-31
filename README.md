@@ -17,7 +17,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **Portion* - An intelligent notion clone with free features
+- **Portion** - An intelligent notion clone with free features
 
 </td>
 <td width="50%">
