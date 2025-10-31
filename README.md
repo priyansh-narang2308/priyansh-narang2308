@@ -17,7 +17,7 @@
 <td width="50%">
 
 ### 🔥 What I'm Building
-- **DeepResearch** - An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports
+- **Portion* - An intelligent notion clone with free features
 
 </td>
 <td width="50%">
