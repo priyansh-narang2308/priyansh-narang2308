@@ -8,25 +8,10 @@
 
 <br clear="right"/>
 
-## 🎯 Current Focus & Learning
-
-<table>
-<tr>
-<td width="50%">
+## 🎯 Current Focus
 
 ### 🔥 What I'm Building
-- **Portion** - An intelligent notion clone with free features
-
-</td>
-<td width="50%">
-
-### 📚 Currently Learning
-- 🧠 **Advanced LLMs** - Fine-tuning & RAG systems
-- ⚜️ System Design
-
-</td>
-</tr>
-</table>
+**CoreSync** - An intelligent fitness-tracker mobile app with AI-powered features for personalized workout plans and health analytics
 
 ## 🛠️ Technology Stack
 
