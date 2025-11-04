@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <br clear="right"/>
 
 ## 🎯 Current Focus & Learning
