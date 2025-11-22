@@ -8,11 +8,6 @@
 
 <br clear="right"/>
 
-## 🎯 Current Focus
-
-### 🔥 What I'm Building
-**CoreSync** - An intelligent fitness-tracker mobile app with AI-powered features for personalized workout plans and health analytics
-
 ## 🛠️ Technology Stack
 
 <div align="center">
