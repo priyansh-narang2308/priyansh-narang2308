@@ -85,7 +85,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-narang-2308&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh-narang2308)
 
 ### 📈 GitHub Statistics
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyansh-narang2308&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=20&hide_border=true" />
