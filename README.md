@@ -1,4 +1,4 @@
-# 👨‍💻 Priyansh Narang
+<h1 style="text-align: center;">👨‍💻 Priyansh Narang</h1>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br clear="right"/>
 
-## 🛠️ Technology Stack
+<h1 style="text-align: center;">👨‍💻 Technology Stack</h1>
 
 <div align="center">
 
