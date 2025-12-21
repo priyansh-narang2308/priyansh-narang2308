@@ -14,7 +14,7 @@ Hi, I’m **Priyansh Narang**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/priyansh.narang23?igsh=MWpsOTU4OGF3YWU4NQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NarangPriyansh)
-[![Leetcode](https://img.shields.io/badge/X-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshnarang23/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-282828?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshnarang23/)
 
 ---
 
