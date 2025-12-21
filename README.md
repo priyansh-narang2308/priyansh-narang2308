@@ -17,33 +17,9 @@ Hi, I’m **Priyansh Narang**
 
 ## 💻 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-111?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-111?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-111?style=flat&logo=java)
-![Go](https://img.shields.io/badge/Go-111?style=flat&logo=go)
-
-### Frontend
-![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-111?style=flat&logo=tailwindcss)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
-
-### Tools & Cloud
-![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
-![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-111?style=flat&logo=microsoftazure)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,python,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,neo4j,supabase,azure,cloudflare,prisma,docker,postman,npm,nodemon,git,github&perline=9" />
+</p>
 
 ---
 
