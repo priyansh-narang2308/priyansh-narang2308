@@ -1,24 +1,27 @@
-## 👋 About Me
+## 💫 About Me
 
 Hi, I’m **Priyansh Narang**  
 - 🌱 Full Stack Development learner  
 - ⚡ Exploring Machine Learning & Generative AI  
-- 🧠 Interested in building real, usable products  
+- 🧠 Interested in building real, usable products
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/priyansh.narang23?igsh=MWpsOTU4OGF3YWU4NQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NarangPriyansh)
+[![Leetcode](https://img.shields.io/badge/X-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshnarang23/)
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,python,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,neo4j,supabase,azure,cloudflare,prisma,docker,postman,npm,nodemon,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,fastapi,supabase,redis,prisma,docker,postman,npm,nodemon,git,github,vite,vitest,vercel,vscode&perline=9" />
 </p>
 
 ---
