@@ -20,8 +20,8 @@ Hi, I’m **Priyansh Narang**
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,fastapi,supabase,redis,prisma,docker,postman,npm,nodemon,git,github,vite,vitest,vercel,vscode&perline=9" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,fastapi,supabase,redis,prisma,docker,postman,threejs,npm,git,github,vite,vitest,vercel,netlify,vscode&perline=9" />
 </p>
 
 ---
