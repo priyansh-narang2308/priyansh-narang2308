@@ -1,4 +1,4 @@
-## 💫 About Me
+t## 💫 About Me
 
 Hi, I’m **Priyansh Narang**  
 - 🌱 Full Stack Development learner  
@@ -29,7 +29,7 @@ Hi, I’m **Priyansh Narang**
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=priyansh-narang2308&show_icons=true&hide_border=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyansh-narang2308)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-narang2308)](https://git.io/streak-stats)
 
 ---
 
