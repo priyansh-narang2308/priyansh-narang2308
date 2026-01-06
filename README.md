@@ -1,4 +1,4 @@
-t## 💫 About Me
+### 💫 About Me
 
 Hi, I’m **Priyansh Narang**  
 - 🌱 Full Stack Development learner  
