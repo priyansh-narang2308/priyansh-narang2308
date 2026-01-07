@@ -29,7 +29,7 @@ Hi, I’m **Priyansh Narang**
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=priyansh-narang2308&show_icons=true&hide_border=true&theme=tokyonight)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/priyansh-narang2308?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/priyansh-narang2308?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
