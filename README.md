@@ -30,6 +30,8 @@ Hi, I’m **Priyansh Narang**
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/priyansh-narang2308?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-narang2308)](https://git.io/streak-stats)
+
 ---
 
 ## Activity
