@@ -9,8 +9,8 @@ Hi, I’m **Priyansh Narang**
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
-[![Leetcode](https://img.shields.io/badge/Leetcode-282828?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshnarang23/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
+[![Leetcode](https://img.shields.io/badge/Leetcode-282828?style=flat)](https://leetcode.com/u/priyanshnarang23/)
 
 ---
 
