@@ -18,14 +18,6 @@ Hi, I’m **Priyansh Narang**
 
 ---
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,fastapi,supabase,redis,prisma,docker,postman,threejs,npm,git,github,vite,vitest,vercel,netlify,vscode&perline=9" />
-</p>
-
----
-
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-narang2308)](https://git.io/streak-stats)
