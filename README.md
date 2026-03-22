@@ -6,7 +6,7 @@ Hi, I’m **Priyansh Narang** - Full Stack Development learner
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * [KiddieGPT](https://github.com/priyansh-narang2308/KiddieGPT) - Interactive AI story generator for kids with personalized character customization.
 * [MindForge](https://github.com/priyansh-narang2308/MindForge) - Transform photos into professional-grade portraits and LinkedIn headshots.
