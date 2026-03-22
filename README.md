@@ -1,5 +1,4 @@
-Hi, I’m **Priyansh Narang**  
-- Full Stack Development learner  
+Hi, I’m **Priyansh Narang** - Full Stack Development learner  
 - Exploring Machine Learning & Generative AI  
 - Interested in building real, usable products
 
@@ -7,10 +6,14 @@ Hi, I’m **Priyansh Narang**
 
 ---
 
-## Socials
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
-[![Leetcode](https://img.shields.io/badge/Leetcode-282828?style=flat)](https://leetcode.com/u/priyanshnarang23/)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **KiddieGPT** | AI-powered story generator for kids with personalized themes and characters. | TypeScript, AI/LLMs |
+| **MindForge** | Turn photos into professional-grade portraits and LinkedIn headshots. | TypeScript, ML |
+| **CoreSync** | AI-powered fitness tracker for logging exercises, sets, and active workout time. | Expo, React Native, Sanity, Clerk |
+| **Cream** | Real-time messaging and video calling web app with polished UI. | Next.js, Convex, Stream SDK |
 
 ---
 
@@ -18,6 +21,13 @@ Hi, I’m **Priyansh Narang**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=priyansh-narang2308)](https://git.io/streak-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/priyansh-narang2308?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-narang2308&show_icons=true&theme=transparent" alt="Priyansh's GitHub Stats" />
+</p>
 
 ---
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshnarang23/)
