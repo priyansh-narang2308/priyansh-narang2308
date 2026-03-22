@@ -6,6 +6,13 @@ Hi, I’m **Priyansh Narang** - Full Stack Development learner
 
 ---
 
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshnarang23/)
+
+---
+
 ## Featured Projects
 
 * [KiddieGPT](https://github.com/priyansh-narang2308/KiddieGPT) - Interactive AI story generator for kids with personalized character customization.
@@ -24,8 +31,3 @@ Hi, I’m **Priyansh Narang** - Full Stack Development learner
 </p>
 
 ---
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshnarang23/)
