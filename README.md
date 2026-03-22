@@ -6,14 +6,12 @@ Hi, I’m **Priyansh Narang** - Full Stack Development learner
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **KiddieGPT** | AI-powered story generator for kids with personalized themes and characters. | TypeScript, AI/LLMs |
-| **MindForge** | Turn photos into professional-grade portraits and LinkedIn headshots. | TypeScript, ML |
-| **CoreSync** | AI-powered fitness tracker for logging exercises, sets, and active workout time. | Expo, React Native, Sanity, Clerk |
-| **Cream** | Real-time messaging and video calling web app with polished UI. | Next.js, Convex, Stream SDK |
+* [KiddieGPT](https://github.com/priyansh-narang2308/KiddieGPT) - Interactive AI story generator for kids with personalized character customization.
+* [MindForge](https://github.com/priyansh-narang2308/MindForge) - Transform photos into professional-grade portraits and LinkedIn headshots.
+* [CoreSync](https://github.com/priyansh-narang2308/CoreSync) - AI-powered fitness tracker built with Expo and React Native to log active workout time.
+* [Cream](https://github.com/priyansh-narang2308/Cream) - Real-time messaging and video calling web app built with Next.js and Stream SDK.
 
 ---
 
