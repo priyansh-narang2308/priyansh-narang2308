@@ -1,5 +1,4 @@
-i want like this 
-Hi, I’m **Priyansh Narang**  
+ Hi, I’m **Priyansh Narang**  
 - Full Stack Development learner  
 - Exploring Machine Learning & Generative AI  
 - Interested in building real, usable products
