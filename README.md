@@ -2,7 +2,6 @@
 - Full Stack Development learner  
 - Exploring Machine Learning & Generative AI  
 - Interested in building real, usable products
-- SDE Intern at @Aadiyog Healthtech Pvt. Ltd.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyansh-narang2308&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
