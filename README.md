@@ -1,5 +1,5 @@
  Hi, I’m **Priyansh Narang**  
-- Full Stack Development learner  
+- Full Stack Developer
 - Exploring Machine Learning & Generative AI  
 - Interested in building real, usable products
 
