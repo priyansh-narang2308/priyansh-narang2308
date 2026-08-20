@@ -25,7 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
 [![LeetCode](https://img.shields.io/badge/LeetCode-282828?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/priyanshnarang23/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansh-narang2308)
 
 </div>
 
